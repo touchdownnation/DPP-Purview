@@ -1,0 +1,9 @@
+{
+	"name": "DNA-DPP-ADF",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7ddfb4cd-4fc1-4de6-a569-98ae44bea9e5",
+		"tenantId": "01335037-c78e-4b20-8388-7ab404dd156d"
+	}
+}
